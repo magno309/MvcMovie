@@ -38,3 +38,5 @@ C:\Users\luis_\Documents\Github\MvcMovie\obj\Debug\net5.0\ref\MvcMovie.dll
 C:\Users\luis_\Documents\Github\MvcMovie\obj\Debug\net5.0\MvcMovie.pdb
 C:\Users\luis_\Documents\Github\MvcMovie\obj\Debug\net5.0\MvcMovie.genruntimeconfig.cache
 C:\Users\luis_\Documents\Github\MvcMovie\obj\Debug\net5.0\MvcMovie.csproj.CopyComplete
+C:\Users\luis_\Documents\Github\MvcMovie\obj\Debug\net5.0\Razor\Views\HelloWorld\Index.cshtml.g.cs
+C:\Users\luis_\Documents\Github\MvcMovie\obj\Debug\net5.0\Razor\Views\HelloWorld\Welcome.cshtml.g.cs
